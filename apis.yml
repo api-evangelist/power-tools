@@ -1,0 +1,19 @@
+aid: power-tools
+name: Power Tools
+description: >-
+  Power Tools provides API capabilities for developer tooling and utilities.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Developer Tools
+  - Utilities
+  - API
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/power-tools/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
