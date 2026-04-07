@@ -7,7 +7,6 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Developer Tools
   - Utilities
-  - API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/power-tools/refs/heads/main/apis.yml
 created: '2026-03-16'
